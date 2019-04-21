@@ -15,28 +15,18 @@ print(B)
 os.system('cowsay -f eyes "@aliens@ Hack Facebook" ')
 print(A)
 ok="""
-==================================================
-=                 @aliens@                       =
-=         {} By:{}(( mohamedPro w reda tsuna  )){}                =
-=                                                =
-=      groupid : {}{}{}            =
-=                                                =
-=          * 1 ==> {} yuonss {}                   =
-=                                                =
-=          * 2 ==> {}ayoub{}               =
-=                                                =
-=          * 3 ==> {} mr vilain{}                   =
-=                                                =
-=          * 4 ==> {} mauad ben mohamed{}            =
-=                                                =
-=          * 5 ==> {} hamza briqat {}            =
-=                                                =
-=          * 6 ==> {} by aliens hacker {}               =
-=                                                =
-=          * 7 ==> {} by aliens hacker {}               =
-=                                                =
-=             {}               =
-==================================================
+====================/
+ALIENS HACKER
+=====================/
+BY:MOHAMEDLKAMILIPRO
+=====================/
+BY : REDA TSUNA
+=====================/
+BY:AYOUB RED 
+BY:YOUNSS
+BY:MR VILAIN
+BY:IMAD
+=====================_
 """.format(A, B, A,B, grb, A,C, A, C, A, C, A, C, A, C, A, C, A, C, A,'Welcome To @Termux@ ')
 print(ok)
 #!/usr/bin/env python
