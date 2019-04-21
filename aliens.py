@@ -15,18 +15,25 @@ print(B)
 os.system('cowsay -f eyes "@aliens@ Hack Facebook" ')
 print(A)
 ok="""
-====================/
-ALIENS HACKER
-=====================/
-BY:MOHAMEDLKAMILIPRO
-=====================/
-BY : REDA TSUNA
-=====================/
-BY:AYOUB RED 
-BY:YOUNSS
-BY:MR VILAIN
-BY:IMAD
-=====================_
+====================================
+|| | | | >>>  ALIENS.PY   <<<  | | | 
+|===================================
+|                                   |
+|====>> BY : MOHAMED LKAMLI PRO     |
+|                                   |
+|===>>  BY  : REDA TSUNA            |
+|                                   |
+|===>>  BY  : AYOUB                 |
+|                                   |
+|===>>  BY  : YOUNSS                |
+|                                   |
+|===>>  BY  : MR VILAIN             |
+|                                   |
+|===>>  BY : Mouad ben Mahmoud      |                   
+|                                   |
+|===>>  BY  : AHMAD LOTFE           |
+|                                   |
+|=================PRO================
 """.format(A, B, A,B, grb, A,C, A, C, A, C, A, C, A, C, A, C, A, C, A,'Welcome To @Termux@ ')
 print(ok)
 #!/usr/bin/env python
