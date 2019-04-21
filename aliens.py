@@ -12,7 +12,7 @@ E='\033[1;35m'
 F='\033[1;36m'
 grb='''@:[1864140940265166]'''
 print(B)
-os.system('cowsay -f eyes "@aliens@ Hack Facebook" ')
+os.system('cowsay -f eyes "MOHAMED LKAMILI PRO W REDA TSUNA" ')
 print(A)
 ok="""
 ==============================================
