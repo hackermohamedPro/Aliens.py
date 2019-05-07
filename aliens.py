@@ -15,9 +15,9 @@ print(B)
 os.system('cowsay -f eyes "MOHAMED LKAMILI PRO W REDA TSUNA" ')
 print(A)
 ok="""
-\033[0;33m==============================================
+==============================================
  \033[0;33mRAMADAN KARIME 2019 ALIENS HACKER 
-__________________________________                               < MOHAMED LKAMILI PRO W REDA TSUNA >
+_________________________________                               < MOHAMED LKAMILI PRO W REDA TSUNA >
  ----------------------------------
     \
      \                                                                                               .::!!!!!!!:.
@@ -29,7 +29,7 @@ __________________________________                               < MOHAMED LKAMI
         "*$bd$$$$      '*$$$$$$$$$$$o+#"
              """"          """""""
 
-*========================================================
+========================================================
 """.format(A, B, A,B, grb, A,C, A, C, A, C, A, C, A, C, A, C, A, C, A,'Welcome To @Termux@ ')
 print(ok)
 #!/usr/bin/env python
