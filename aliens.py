@@ -17,11 +17,42 @@ print(A)
 ok="""
 ==============================================
  \033[0;33mRAMADAN KARIME 2019 ALIENS HACKER 
-_________________________________                               < MOHAMED LKAMILI PRO W REDA TSUNA >
-╱▔▔▔▔▔▔▔▔╲       *       *
-                     *       *   ▏YourSelF▕   *       *
-            *    *       *      ▕ ╭━╮┈┈╭━╮▕       *       *    *
-                                 ╲╰━╯╱╲╰━╯╱
+\033[1;31mHACKER BY MOHAMED LKAMILI W REDA TSUNA
+\033[1;34mALIENS HACKER 
+                                                          
+                                      `..........``                                                 
+                                      sdmmNmdhhhhhhyyo/:.`                                          
+                                      -+osyhddys+//ohdmmdhs/-`                                      
+                                           `.-/syhho/:/oshdmmho-`                                   
+                                                `.:ohhy+o+/ohdmmy/`                                 
+                                               ``..`.-ohms:-:syhmNh:                                
+                                            ./shmmmmhs/-:smh-.+yydMms+.                             
+                                           -hNMMNNMMMMNh- -smy.-ohMMMMd/                            
+                                          :dMMNNNNNNNNMMd:  -ym+.hNNMMd:                            
+                                         :dMMNMMNNNNMMNMMd:  `yMmMMMMd:                             
+                                       `+mMMNMMMMMMMMMMNNMm+`:dMMMMMh-                              
+                                      -yNMNNNMNyhMMhyNMMNNMNyhMMMMMy.                               
+                                ``.-/smMMMNNMmdmdmmdmdmMNNMMMMMMMMy.                                
+                           `/ydmmmNNMMMMMNNNMNmNhmmhNmMMMNNMMMMMMNmmmdy/`                           
+                         `/dNMMMMMMMNMMMMNNMMMNdNNNmdNMMMNNMMMMNMMMMMMMNh/                          
+                        -yNMMNNNNNNNNMMMNMNNMMMmddddmMMMNNMNMMMNNNNNNNNMMNy-                        
+                       +mMMMmNNNNMMMNNMNMNMNNNMMMMMMMMNNNMNMNMNNMMMNNNNNMMMm+                       
+                      -dMMMMMMMMMMNMMMMMMMNMMMMMMMMMMMMMMNMMMMMMMNMMMMMMMMMMd.                      
+                       :ossyyhdNMMMMMMMMMMMNyhNMNsmyMMmyNMMMMMMMMMMMNdhyysso:                       
+                              .hNMMMMMMMMMMM/oMMN +.MMy.mMMMMMMMMMMNh.                              
+                       `.---./ydmmmNMMMMMMMMdmMMNdNdNMNhNMMMMMMMNNmdhys+/:..`                       
+                .-:/oyhdmNNNmMNdhmNshMd/ho::+o-/:oh-:-yMd:od/hdsshNNdmNNNNmmdyys+-.`                
+           `:oyhdNNNMmmNy++hMN/-:.y`+My s`+/.s s:-o`y-:NN--y o:-o`y:-::s:hhyNmmNMNmdhs/`            
+          .yNMNdyso:h::o`s.+Mm.+o`y`+My s`+ddy s:-s`++hMN:-y o::y o./s s`o+`y.:-osshdMNh:           
+          /mMm/-.yo y::+`hhmMm./+ y`+My s../dy s:-do/.oMN:`: o:.+ o./myh`++`y o/-+ +.oMMh`          
+          .hNMN:-Ns s-:o /oNMm.-: y`+My s`+yoy s:-o.y-:NN:-y o:-o o./NMd`-..y`+hdo y-:NMd.          
+           -dMN:-Ns /.:o`yshMm.+o y`/ys s-::-s`y/.o./.+MN:-y +:-y o./y/h`++`y`:+mo s-:NMd.          
+           .dMN:-Ns y:-+`o.+Mm-oh:yoosdymmhhmNdNmdNmddNMMddNyhysm/oo::-y`++`y osso -`oMMh.          
+           .dMN:-ms`h/:hooyNMNmNNNNNmmdddhhhyyyyyyyyyysoyhhdmmmmNNNNNmNNhdd/y+:--o o`dMMy`          
+           .dMN++NmhNNNNNNmhsooo//:-..```````            ```....-::+osshhdNNNNmdmdoh-/NMm:          
+            omNNNNdhyoo/-..`                                           ```--:oyyhmNNNNNNy.          
+             -///-``                                                            `.-/oso:`           
+                                                                                        
 ========================================================
 """.format(A, B, A,B, grb, A,C, A, C, A, C, A, C, A, C, A, C, A, C, A,'Welcome To @Termux@ ')
 print(ok)
