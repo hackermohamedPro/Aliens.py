@@ -16,13 +16,15 @@ os.system('cowsay -f eyes "MOHAMED LKAMILI PRO W REDA TSUNA" ')
 print(A)
 ok="""
 ==============================================
-BY HACKER MOHAMED LKAMILI PRO W REDA TSUNA
+\033[0;32m RAMADAN KARIM KOL 3AM BIKHAYR 2019
+
+\033[1;34mBY HACKER MOHAMED LKAMILI PRO W REDA TSUNA
            _      _____ ______ _   _  _____
      /\   | |    |_   _|  ____| \ | |/ ____|
-    /  \  | |      | | | |__  |  \| | (___
+  \033[0;32m  /  \  | |      | | | |__  |  \| | (___
    / /\ \ | |      | | |  __| | . ` |\___ \
   / ____ \| |____ _| |_| |____| |\  |____) |
- /_/    \_\______|_____|______|_| \_|_____/
+\033[0;32m /_/    \_\______|_____|______|_| \_|_____/
 
 ================================================
 """.format(A, B, A,B, grb, A,C, A, C, A, C, A, C, A, C, A, C, A, C, A,'Welcome To @Termux@ ')
