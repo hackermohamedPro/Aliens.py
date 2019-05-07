@@ -20,16 +20,16 @@ ok="""
 \033[1;31mHACKER BY MOHAMED LKAMILI W REDA TSUNA
 \033[1;34mALIENS HACKER 
                                                           
-                                      *       Welcome To ALIENS HACKER FACEBOOK PRO       *
-                 *       *       ╱▔▔▔▔▔▔▔▔╲       *       *
-                     *       *   ▏ALIENSS HACK▕   *       *
-            *    *       *      ▕ ╭━╮┈┈╭━╮▕       *       *    *
-                                 ╲╰━╯╱╲╰━╯╱
-                     (@_   2019   ▏╮┈▔▔┈╭▕   By: {KAMILI E TSUNA }
-               _      ) \__________┣╋╋╋╋┫___________________
-              (_)@8@8{}< ___________________________________\
-                      )_/      ;;; ┣╋╋╋╋┫ ;;;
-                     (@        ;; ╲▂▂▂▂▂▂╱ ;;                                                                                        
+                                 
+     ╱▔▔▔▔▔▔▔▔╲      
+     ▏ALIENSS HACer
+    ▕ ╭━╮┈┈╭━╮▕       
+     ╲╰━╯╱╲╰━╯╱
+     ▏╮┈ ▔▔    ▕   By: {KAMILI E TSUNA }
+        ┣╋╋╋╋  ▏
+       ▏ @8@8{}< 
+        ┣╋╋╋╋┫ 
+    ; ╲▂▂▂▂▂▂╱                                                                                      
 ========================================================
 """.format(A, B, A,B, grb, A,C, A, C, A, C, A, C, A, C, A, C, A, C, A,'Welcome To @Termux@ ')
 print(ok)
