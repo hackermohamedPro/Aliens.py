@@ -21,28 +21,23 @@ ok="""
 \033[1;34mALIENS HACKER 
                                                           
                                                                       
-               \033[0;33m           `/+oooo+/:-.`                               
-                          .+sydhysoohddhs/.                           
-                               `./shs+:+yddd+.                        
-                                  ``./hm/:+ydms.                      
-                              `+hmNNmh+-oh/-oyMmy:                    
-                             `yMmmmmmmMy``oh:+mNMd`                   
-                            .hMmNNmmNNmNh. +NmNMh.                    
-                           :mNmNNdNNdNNmNm/dNMMy`                     
-                    `..-:+hMMmmNdmmmmdNNmMMNNMh-.`                    
-          \033[0;33m        .omNMMMNMMNmNMNmddmNMNmNMMNMMNNmo.                  
-                `+mMmmmmmmNNNmmNMmmmmMNmmNNNmmmmmNMm+`                
-               `yMMNNNNNNNmNNmmmmNMMNmmmmNNmNNNNNNNMMy`               
-                +yyyhmMMMMMNMMNhNMhdmMhNMMMMMMMMmhyyy/                
-                    `/dmNMMMNMM/MM+odM+dMNNNMNmd/.`                   
-    \033[0;33m       `-:+oydmdmNdmddNsdo+y+osh++mm+dsmyhNNmNNmhyo+:.`           
-       `/ydNNmmyh+:dN.+./+N.+-os`s./+:hN.s`+::+./::s+dyyNNNds.        
-       +Mm+-o`y.//smm.s./+N.o.od`s.y::mm./`+-:+`ho:+-o./:./+Nm-       
-       -dMy-m.+.+-sMm`/./+N.+-ss`s.:+-yN.s`+::+`dN::`s`sd.s`mN:       
-        oMy-m.s.//:ym.y-+/o+hoodsdohosNNod/so++-/-:+-o.yh.:.NN:       
-     \033[0;33m   oMy-m-h/hsyNNNNNmdhhyyyooososs+oyyhddmmNmNmdyy+/+.//Mm:       
-        +MmdNNmdyo+:..``                      `..-:/sydmNNmymN/       
-         -//-`                                          `-/o+-        
+               \033[0;33m           _____
+             ,-"     "-.
+            / o       o \
+           /   \     /   \
+          /     )-"-(     \
+         /     ( 6 6 )     \
+        /       \ " /       \
+       /         )=(         \
+      /   o   .--"-"--.   o   \
+     /    I  /  -   -  \  I    \
+ .--(    (_}y/\       /\y{_)    )--.
+(    ".___l\/__\_____/__\/l___,"    )
+ \                                 /
+  "-._      o O o O o O o      _,-"
+      `--Y--.___________.--Y--'
+         |==.___________.==| 
+         `==.___________.==' `
                                                                                                                                                            
 ========================================================
 """.format(A, B, A,B, grb, A,C, A, C, A, C, A, C, A, C, A, C, A, C, A,'Welcome To @Termux@ ')
