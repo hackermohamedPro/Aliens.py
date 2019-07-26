@@ -20,8 +20,7 @@ ok="""
 \033[1;31mHACKER BY MOHAMED LKAMILI W REDA TSUNA
 \033[1;34mALIENS HACKER 
                                                           
-                                                                      
-               \033[0;33m           _____
+                                                                    
              ,-"     "-.
             / o       o \
            /   \     /   \
@@ -40,7 +39,8 @@ ok="""
          `==.___________.==' `
                                                                                                                                                            
 ========================================================
-""".format(A, B, A,B, grb, A,C, A, C, A, C, A, C, A, C, A, C, A, C, A,'Welcome To @Termux@ ')
+"""
+format(A, B, A,B, grb, A,C, A, C, A, C, A, C, A, C, A, C, A, C, A,'Welcome To @Termux@ ')
 print(ok)
 #!/usr/bin/env python
 # -*- coding: UTF-8 -*-
